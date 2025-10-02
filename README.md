@@ -78,6 +78,28 @@ Invoke the power of the `friendly_id` gem to create nice url slugs for the const
   docker compose exec app bash -lc 'bundle exec rake fymp:populate RAILS_ENV=development'
   docker compose exec app bash -lc 'bundle exec rake fymp:load_postcode_districts RAILS_ENV=development'
 
+## Example data (committed)
+
+Small example files live in `example-data/` and can be used for local development.
+
+Copy them into `data/` (the app’s default data directory):
+
+  mkdir -p data && cp example-data/* data/
+
+Then reload:
+
+  docker compose exec app bash -lc 'bundle exec rake fymp:constituencies RAILS_ENV=development'
+  docker compose exec app bash -lc 'bundle exec rake fymp:members RAILS_ENV=development'
+  docker compose exec app bash -lc 'bundle exec rake fymp:populate RAILS_ENV=development'
+  docker compose exec app bash -lc 'bundle exec rake fymp:load_postcode_districts RAILS_ENV=development'
+
+Notes
+- Members can also be loaded directly from `example-data/FYMP_all.txt` via:
+
+    docker compose exec app bash -lc 'bundle exec rake fymp:members RAILS_ENV=development file=example-data/FYMP_all.txt'
+
+- Constituencies and postcodes use fixed default paths, so copying to `data/` is recommended.
+
 ## Maintenance notes (copied verbatim from original README, not tested)
 
 To get the emergency server shutdown to work, you need to run the following...
