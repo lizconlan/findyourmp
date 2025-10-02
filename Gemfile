@@ -16,6 +16,9 @@ else
 end
 gem 'aws-s3'
 gem 'mysql2', '0.2.6'
+# Fallback legacy adapter for environments where mysql2 0.2.x is incompatible
+# with modern libmysqlclient; used by docker-compose dev setup
+gem 'mysql', '~> 2.9.1'
 gem 'unicode'
 gem 'resource_controller'
 gem 'rest-client'
