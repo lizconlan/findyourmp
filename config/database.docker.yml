@@ -1,0 +1,29 @@
+development:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: findyourmp_development
+  username: root
+  password: root
+  host: db
+  port: 3306
+
+test:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: findyourmp_test
+  username: root
+  password: root
+  host: db
+  port: 3306
+
+production:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: findyourmp_production
+  username: root
+  password: root
+  host: db
+  port: 3306

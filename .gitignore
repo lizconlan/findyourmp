@@ -33,3 +33,5 @@ features.pdf
 FYMP*
 config/newrelic.yml
 vendor/plugins/newrelic_rpm/*
+# Prevent accidental Rails skeleton from rails runner on Rails 2.x
+runner/

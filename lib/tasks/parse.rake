@@ -116,4 +116,48 @@ namespace :fymp do
     load_upmystreetcodes
   end
 
+  desc "Copy example-data into data/ and load constituencies, members, postcodes, districts; then generate slugs"
+  task :load_example_data => :environment do
+    require 'fileutils'
+    root_dir = File.expand_path(File.dirname(__FILE__) + '/../../')
+    example_dir = File.join(root_dir, 'example-data')
+    target_dir  = File.join(root_dir, 'data')
+
+    puts "Copying example data from #{example_dir} to #{target_dir}..."
+    FileUtils.mkdir_p(target_dir)
+    %w[new_constituencies.txt FYMP_all.txt postcodes.txt].each do |fname|
+      src = File.join(example_dir, fname)
+      dst = File.join(target_dir, fname)
+      if File.exist?(src)
+        FileUtils.cp(src, dst)
+        puts "  copied #{fname}"
+      else
+        puts "  WARNING: missing #{src}"
+      end
+    end
+
+    puts 'Loading constituencies...'
+    load_constituencies
+
+    puts 'Loading members...'
+    load_members ENV['file'] # allow override, otherwise default file is used
+
+    puts 'Populating postcodes...'
+    load_postcodes
+
+    puts 'Building postcode districts...'
+    load_postcode_districts
+
+    begin
+      puts 'Generating slugs for Constituency...'
+      Rake::Task['friendly_id:make_slugs'].reenable
+      ENV['MODEL'] ||= 'Constituency'
+      Rake::Task['friendly_id:make_slugs'].invoke
+    rescue Exception => e
+      puts "  Skipping slug generation (#{e.class}: #{e.message})"
+    end
+
+    puts 'Done.'
+  end
+
 end
