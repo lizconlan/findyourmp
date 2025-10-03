@@ -93,6 +93,13 @@ Then reload:
   docker compose exec app bash -lc 'bundle exec rake fymp:populate RAILS_ENV=development'
   docker compose exec app bash -lc 'bundle exec rake fymp:load_postcode_districts RAILS_ENV=development'
 
+One-shot helper task
+- You can also run a single task to copy the committed examples into `data/` and load everything:
+
+  docker compose exec app bash -lc 'bundle exec rake fymp:load_example_data RAILS_ENV=development'
+
+  This performs: copy example-data/* -> data/, load constituencies, load members, populate postcodes, build postcode districts, and attempts to generate slugs.
+
 Notes
 - Members can also be loaded directly from `example-data/FYMP_all.txt` via:
 
