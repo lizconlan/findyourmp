@@ -43,9 +43,10 @@ WORKDIR ${APP_HOME}
 # Prime bundler layer: copy only Gemfile(s) first
 COPY Gemfile Gemfile.lock* ${APP_HOME}/
 
-# Configure builds for mysql2 (use system mysql_config) and nokogiri (system libs if available)
+# Configure builds for mysql2 (use system mysql_config) and nokogiri (force system libs)
 ENV BUNDLE_BUILD__MYSQL2="--with-mysql-config=/usr/bin/mysql_config" \
-    BUNDLE_BUILD__NOKOGIRI="--use-system-libraries"
+    BUNDLE_BUILD__NOKOGIRI="--use-system-libraries" \
+    NOKOGIRI_USE_SYSTEM_LIBRARIES=1
 
 # Install gems (development and test for dev container)
 RUN bundle _1.17.3_ install --without test

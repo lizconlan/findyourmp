@@ -8,12 +8,7 @@ gem 'authlogic', '2.1.10'
 gem 'friendly_id', '2.3.4', :require => "friendly_id"
 gem 'xss_terminate'
 gem 'hpricot'
-# Support both modern host (Ruby >= 2.3) and legacy Docker (Ruby 1.9.3)
-if RUBY_VERSION < '2.0'
-  gem 'nokogiri', '1.6.1'
-else
-  gem 'nokogiri', '~> 1.10.10'
-end
+gem 'nokogiri', '1.6.1'
 gem 'aws-s3'
 gem 'mysql2', '0.2.6'
 # Fallback legacy adapter for environments where mysql2 0.2.x is incompatible
