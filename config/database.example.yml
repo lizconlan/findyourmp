@@ -1,21 +1,35 @@
 development:
-  adapter: mysql2
+  adapter: <%= ENV['USE_DOCKER_DB'] ? 'mysql' : 'mysql2' %>
   database: findyourmp_development
   username: root
-  password: 
+  password: <%= ENV['USE_DOCKER_DB'] ? 'root' : '' %>
+<% if ENV['USE_DOCKER_DB'] %>
+  host: db
+  port: 3306
+<% else %>
   socket: /tmp/mysql.sock
-
+<% end %>
 test:
-  adapter: mysql2
+  adapter: <%= ENV['USE_DOCKER_DB'] ? 'mysql' : 'mysql2' %>
   database: findyourmp_test
   username: root
-  password: 
+  password: <%= ENV['USE_DOCKER_DB'] ? 'root' : '' %>
+<% if ENV['USE_DOCKER_DB'] %>
+  host: db
+  port: 3306
+<% else %>
   socket: /tmp/mysql.sock
+<% end %>
     
     
 production:
-  adapter: mysql2
+  adapter: <%= ENV['USE_DOCKER_DB'] ? 'mysql' : 'mysql2' %>
   database: findyourmp_production
   username: root
-  password: 
+  password: <%= ENV['USE_DOCKER_DB'] ? 'root' : '' %>
+<% if ENV['USE_DOCKER_DB'] %>
+  host: db
+  port: 3306
+<% else %>
   socket: /tmp/mysql.sock
+<% end %>
