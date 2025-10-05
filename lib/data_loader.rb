@@ -341,6 +341,8 @@ module FindYourMP::DataLoader
 
     lines = []
     IO.foreach(member_file) do |line|
+      # Normalize encoding to UTF-8 and drop invalid bytes to avoid 1.9.3 conversion errors
+      line = line.encode('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '')
       line.strip!
       lines << line unless(line.blank? || line[/Constituency/])
     end
@@ -376,6 +378,8 @@ module FindYourMP::DataLoader
     Slug.delete_all
 
     IO.foreach(CONSTITUENCY_FILE) do |line|
+      # Ensure UTF-8 encoding; replace any invalid/undefined bytes to avoid 1.9.3 encode errors
+      line = line.encode('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '')
       constituency_id = line[0..2]
       constituency_name = line[3..(line.length-1)].strip
       Constituency.create :name=>constituency_name, :ons_id=>constituency_id

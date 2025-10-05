@@ -645,6 +645,6 @@ Wycombe	Emma Reynolds	Labour				True
 Wyre Forest	Mark Garnier	Conservative				True
 Wythenshawe and Sale East	Mike Kane	Labour				True
 Yeovil	Adam Dance	Liberal Democrat				True
-Ynys Mon	Llinos Medi	Plaid Cymru				True
+Ynys Môn	Llinos Medi	Plaid Cymru				True
 York Central	Rachael Maskell	Independent				True
 York Outer	Mr Luke Charters	Labour				True

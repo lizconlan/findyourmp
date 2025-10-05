@@ -6,24 +6,62 @@ create your database.yml file using the supplied example
 
   cp config/database.yml.example config/database.yml
 
-run the rake tasks to create the database
+### Build and start the Docker containers
+
+  docker build --platform=linux/amd64 . -t findyourmp-app
+  docker compose up -d app
+
+### Create an empty database
+
+run these rake tasks:
 
   rake db:create:all
   rake db:migrate:reset RAILS_ENV=xxx
 
-restore the data from a recent database dump or use the rake tasks to load the data from files (not included as part of the repository - to big, would infringe copyright, would be a job in its own right keeping this updated.)
+restore the data from a recent database dump or use the rake tasks to load the data from files
 
-### load constituency data
+### Quickstart version
 
-  rake fymp:constituencies RAILS_ENV=xxx
+#### Load the example data
+
+_A subset of real data from 2024_
+
+Small example files live in `example-data/` and can be used for local development.
+The postcode sample set is limited to just the inner London postcode areas (E, EC, N, NW, SE, SW, W, and WC)
+
+Postcode to constituency mappings provided by the ONS at: https://geoportal.statistics.gov.uk/datasets/f60c78533aa7462cb934bb4a81afc1e0/about
+
+Copy them manually into `data/` (the app’s default data directory):
+
+    cp example-data/* data/
+
+Then either use the one-shot helper task to copy the committed examples into `data/` and load everything:
+
+  docker compose exec app bash -lc 'bundle exec rake fymp:load_example_data RAILS_ENV=development'
+
+Or use the step by step guide:
+
+    docker compose exec app bash -lc 'bundle exec rake fymp:constituencies RAILS_ENV=development'
+    docker compose exec app bash -lc 'bundle exec rake fymp:members RAILS_ENV=development'
+    docker compose exec app bash -lc 'bundle exec rake fymp:populate RAILS_ENV=development'
+    docker compose exec app bash -lc 'bundle exec rake fymp:load_postcode_districts RAILS_ENV=development'
+
+
+In either case, the process copies example-data/* -> data/, load constituencies, load members, populate postcodes, build postcode districts, and attempts to generate slugs.
+
+### Loading data components
+
+#### load constituency data
+
+    rake fymp:constituencies RAILS_ENV=xxx
 
 expects a TSV formatted file consisting of
   ID, constituency name
 as `data/new_constituencies.txt`
 
-### load the member data
+#### load the member data
 
-  rake fymp:members RAILS_ENV=xxx
+    rake fymp:members RAILS_ENV=xxx
 
 expects a TSV formatted file consisting of columns:
   constituency name<TAB>member name<TAB>member party<TAB>biography URL<TAB>contact (email or URL)<TAB>member website<TAB>member visible
@@ -33,15 +71,15 @@ Notes:
 - Set the last column (member visible) to True to ensure members appear on constituency pages in example data.
 - Default file path is `data/FYMP_all.txt` (override with `file=...`).
 
-### prepare the postcode data for loading
+#### prepare the postcode data for loading
 
 Creates postcodes.txt. If you already have a `data/postcodes.txt` that looks promising DO NOT RUN THIS STEP, otherwise go make a cup of tea; this bit isn't quick.
 
-  rake fymp:parse RAILS_ENV=xxx source_file=xxx
+    rake fymp:parse RAILS_ENV=xxx source_file=xxx
 
 expects the sort of file one would expect to pay ONS a recurring subscription fee to receive (plaintext version)
 
-### load the postcode data
+#### load the postcode data
 
 Definitely cup of tea time, consider renting a movie, maybe 2. Takes the simplified postcode data from `data/postcodes.txt` - still millions of records but just the bits we actually want from the massive file - and loads them into the database. Takes hours (on my MacBook Pro, I'm getting a 4 hour estimate).
 
@@ -51,56 +89,27 @@ File format for `data/postcodes.txt` (fixed-width):
 - columns 8..10: 3-character ONS constituency ID
 
 Examples:
-  SW1A1AA␠123
-  W1A0AX␠␠123   (6-char code → two spaces before ONS ID)
-  EH991S␠␠456   (6-char code → two spaces before ONS ID)
+    SW1A1AA␠123
+    W1A0AX␠␠123   (6-char code → two spaces before ONS ID)
+    EH991S␠␠456   (6-char code → two spaces before ONS ID)
 
-  rake fymp:populate RAILS_ENV=xx
+    rake fymp:populate RAILS_ENV=xx
 
-### set up the postcode districts
+#### set up the postcode districts
 
 Runs some SQL against the postcodes table in order to populate the postcode districts information. Reasonably fast.
 
-  rake fymp:load_postcode_districts RAILS_ENV=xx
-  
+    rake fymp:load_postcode_districts RAILS_ENV=xx
 
-### set up us the constituency slugs
+
+#### set up us the constituency slugs
 
 Invoke the power of the `friendly_id` gem to create nice url slugs for the constituencies
 
-  rake friendly_id:make_slugs MODEL=Constituency RAILS_ENV=xx
+    rake friendly_id:make_slugs MODEL=Constituency RAILS_ENV=xx
 
 
-## Sample data quick reload (Docker)
-
-  docker compose exec app bash -lc 'bundle exec rake fymp:constituencies RAILS_ENV=development'
-  docker compose exec app bash -lc 'bundle exec rake fymp:members RAILS_ENV=development'
-  docker compose exec app bash -lc 'bundle exec rake fymp:populate RAILS_ENV=development'
-  docker compose exec app bash -lc 'bundle exec rake fymp:load_postcode_districts RAILS_ENV=development'
-
-## Example data (committed)
-
-Small example files live in `example-data/` and can be used for local development.
-
-Copy them into `data/` (the app’s default data directory):
-
-  mkdir -p data && cp example-data/* data/
-
-Then reload:
-
-  docker compose exec app bash -lc 'bundle exec rake fymp:constituencies RAILS_ENV=development'
-  docker compose exec app bash -lc 'bundle exec rake fymp:members RAILS_ENV=development'
-  docker compose exec app bash -lc 'bundle exec rake fymp:populate RAILS_ENV=development'
-  docker compose exec app bash -lc 'bundle exec rake fymp:load_postcode_districts RAILS_ENV=development'
-
-One-shot helper task
-- You can also run a single task to copy the committed examples into `data/` and load everything:
-
-  docker compose exec app bash -lc 'bundle exec rake fymp:load_example_data RAILS_ENV=development'
-
-  This performs: copy example-data/* -> data/, load constituencies, load members, populate postcodes, build postcode districts, and attempts to generate slugs.
-
-Notes
+** Notes**
 - Members can also be loaded directly from `example-data/FYMP_all.txt` via:
 
     docker compose exec app bash -lc 'bundle exec rake fymp:members RAILS_ENV=development file=example-data/FYMP_all.txt'
@@ -111,9 +120,9 @@ Notes
 
 To get the emergency server shutdown to work, you need to run the following...
 
-  sudo visudo
+    sudo visudo
 
 ...and add in the next 2 lines, substituting [SITE_CONTEXT_USER] with the actual user or group the site runs as
 
-  Cmnd_Alias     APACHE = /etc/init.d/apache2 start, /etc/init.d/apache2 stop, /etc/init.d/apache2 restart, /etc/init.d/apache2 reload`
-  [SITE_CONTEXT_USER] ALL=NOPASSWD: APACHE
+    Cmnd_Alias     APACHE = /etc/init.d/apache2 start, /etc/init.d/apache2 stop, /etc/init.d/apache2 restart, /etc/init.d/apache2 reload`
+    [SITE_CONTEXT_USER] ALL=NOPASSWD: APACHE
