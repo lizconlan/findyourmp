@@ -1,2 +1,650 @@
-123 Testborough
-456 Examshire Central
+001 Aldershot
+002 Aldridge-Brownhills
+003 Altrincham and Sale West
+004 Amber Valley
+005 Arundel and South Downs
+006 Ashfield
+007 Ashford
+008 Ashton-under-Lyne
+009 Aylesbury
+010 Banbury
+011 Barking
+012 Barnsley North
+013 Barnsley South
+014 Barrow and Furness
+015 Basildon and Billericay
+016 Basingstoke
+017 Bassetlaw
+018 Bath
+019 Battersea
+020 Beaconsfield
+021 Beckenham and Penge
+022 Bedford
+023 Bermondsey and Old Southwark
+024 Bethnal Green and Stepney
+025 Beverley and Holderness
+026 Bexhill and Battle
+027 Bexleyheath and Crayford
+028 Bicester and Woodstock
+029 Birkenhead
+030 Birmingham Edgbaston
+031 Birmingham Erdington
+032 Birmingham Hall Green and Moseley
+033 Birmingham Hodge Hill and Solihull North
+034 Birmingham Ladywood
+035 Birmingham Northfield
+036 Birmingham Perry Barr
+037 Birmingham Selly Oak
+038 Birmingham Yardley
+039 Bishop Auckland
+040 Blackburn
+041 Blackley and Middleton South
+042 Blackpool North and Fleetwood
+043 Blackpool South
+044 Blaydon and Consett
+045 Blyth and Ashington
+046 Bognor Regis and Littlehampton
+047 Bolsover
+048 Bolton North East
+049 Bolton South and Walkden
+050 Bolton West
+051 Bootle
+052 Boston and Skegness
+053 Bournemouth East
+054 Bournemouth West
+055 Bracknell
+056 Bradford East
+057 Bradford South
+058 Bradford West
+059 Braintree
+060 Brent East
+061 Brent West
+062 Brentford and Isleworth
+063 Brentwood and Ongar
+064 Bridgwater
+065 Bridlington and The Wolds
+066 Brigg and Immingham
+067 Brighton Kemptown and Peacehaven
+068 Brighton Pavilion
+069 Bristol Central
+070 Bristol East
+071 Bristol North East
+072 Bristol North West
+073 Bristol South
+074 Broadland and Fakenham
+075 Bromley and Biggin Hill
+076 Bromsgrove
+077 Broxbourne
+078 Broxtowe
+079 Buckingham and Bletchley
+080 Burnley
+081 Burton and Uttoxeter
+082 Bury North
+083 Bury South
+084 Bury St Edmunds and Stowmarket
+085 Calder Valley
+086 Camborne and Redruth
+087 Cambridge
+088 Cannock Chase
+089 Canterbury
+090 Carlisle
+091 Carshalton and Wallington
+092 Castle Point
+093 Central Devon
+094 Central Suffolk and North Ipswich
+095 Chatham and Aylesford
+096 Cheadle
+097 Chelmsford
+098 Chelsea and Fulham
+099 Cheltenham
+100 Chesham and Amersham
+101 Chester North and Neston
+102 Chester South and Eddisbury
+103 Chesterfield
+104 Chichester
+105 Chingford and Woodford Green
+106 Chippenham
+107 Chipping Barnet
+108 Chorley
+109 Christchurch
+110 Cities of London and Westminster
+111 City of Durham
+112 Clacton
+113 Clapham and Brixton Hill
+114 Colchester
+115 Colne Valley
+116 Congleton
+117 Corby and East Northamptonshire
+118 Coventry East
+119 Coventry North West
+120 Coventry South
+121 Cramlington and Killingworth
+122 Crawley
+123 Crewe and Nantwich
+124 Croydon East
+125 Croydon South
+126 Croydon West
+127 Dagenham and Rainham
+128 Darlington
+129 Dartford
+130 Daventry
+131 Derby North
+132 Derby South
+133 Derbyshire Dales
+134 Dewsbury and Batley
+135 Didcot and Wantage
+136 Doncaster Central
+137 Doncaster East and the Isle of Axholme
+138 Doncaster North
+139 Dorking and Horley
+140 Dover and Deal
+141 Droitwich and Evesham
+142 Dudley
+143 Dulwich and West Norwood
+144 Dunstable and Leighton Buzzard
+145 Ealing Central and Acton
+146 Ealing North
+147 Ealing Southall
+148 Earley and Woodley
+149 Easington
+150 East Grinstead and Uckfield
+151 East Ham
+152 East Hampshire
+153 East Surrey
+154 East Thanet
+155 East Wiltshire
+156 East Worthing and Shoreham
+157 Eastbourne
+158 Eastleigh
+159 Edmonton and Winchmore Hill
+160 Ellesmere Port and Bromborough
+161 Eltham and Chislehurst
+162 Ely and East Cambridgeshire
+163 Enfield North
+164 Epping Forest
+165 Epsom and Ewell
+166 Erewash
+167 Erith and Thamesmead
+168 Esher and Walton
+169 Exeter
+170 Exmouth and Exeter East
+171 Fareham and Waterlooville
+172 Farnham and Bordon
+173 Faversham and Mid Kent
+174 Feltham and Heston
+175 Filton and Bradley Stoke
+176 Finchley and Golders Green
+177 Folkestone and Hythe
+178 Forest of Dean
+179 Frome and East Somerset
+180 Fylde
+181 Gainsborough
+182 Gateshead Central and Whickham
+183 Gedling
+184 Gillingham and Rainham
+185 Glastonbury and Somerton
+186 Gloucester
+187 Godalming and Ash
+188 Goole and Pocklington
+189 Gorton and Denton
+190 Gosport
+191 Grantham and Bourne
+192 Gravesham
+193 Great Grimsby and Cleethorpes
+194 Great Yarmouth
+195 Greenwich and Woolwich
+196 Guildford
+197 Hackney North and Stoke Newington
+198 Hackney South and Shoreditch
+199 Halesowen
+200 Halifax
+201 Hamble Valley
+202 Hammersmith and Chiswick
+203 Hampstead and Highgate
+204 Harborough, Oadby and Wigston
+205 Harlow
+206 Harpenden and Berkhamsted
+207 Harrogate and Knaresborough
+208 Harrow East
+209 Harrow West
+210 Hartlepool
+211 Harwich and North Essex
+212 Hastings and Rye
+213 Havant
+214 Hayes and Harlington
+215 Hazel Grove
+216 Hemel Hempstead
+217 Hendon
+218 Henley and Thame
+219 Hereford and South Herefordshire
+220 Herne Bay and Sandwich
+221 Hertford and Stortford
+222 Hertsmere
+223 Hexham
+224 Heywood and Middleton North
+225 High Peak
+226 Hinckley and Bosworth
+227 Hitchin
+228 Holborn and St Pancras
+229 Honiton and Sidmouth
+230 Hornchurch and Upminster
+231 Hornsey and Friern Barnet
+232 Horsham
+233 Houghton and Sunderland South
+234 Hove and Portslade
+235 Huddersfield
+236 Huntingdon
+237 Hyndburn
+238 Ilford North
+239 Ilford South
+240 Ipswich
+241 Isle of Wight East
+242 Isle of Wight West
+243 Islington North
+244 Islington South and Finsbury
+245 Jarrow and Gateshead East
+246 Keighley and Ilkley
+247 Kenilworth and Southam
+248 Kensington and Bayswater
+249 Kettering
+250 Kingston and Surbiton
+251 Kingston upon Hull East
+252 Kingston upon Hull North and Cottingham
+253 Kingston upon Hull West and Haltemprice
+254 Kingswinford and South Staffordshire
+255 Knowsley
+256 Lancaster and Wyre
+257 Leeds Central and Headingley
+258 Leeds East
+259 Leeds North East
+260 Leeds North West
+261 Leeds South
+262 Leeds South West and Morley
+263 Leeds West and Pudsey
+264 Leicester East
+265 Leicester South
+266 Leicester West
+267 Leigh and Atherton
+268 Lewes
+269 Lewisham East
+270 Lewisham North
+271 Lewisham West and East Dulwich
+272 Leyton and Wanstead
+273 Lichfield
+274 Lincoln
+275 Liverpool Garston
+276 Liverpool Riverside
+277 Liverpool Walton
+278 Liverpool Wavertree
+279 Liverpool West Derby
+280 Loughborough
+281 Louth and Horncastle
+282 Lowestoft
+283 Luton North
+284 Luton South and South Bedfordshire
+285 Macclesfield
+286 Maidenhead
+287 Maidstone and Malling
+288 Makerfield
+289 Maldon
+290 Manchester Central
+291 Manchester Rusholme
+292 Manchester Withington
+293 Mansfield
+294 Melksham and Devizes
+295 Melton and Syston
+296 Meriden and Solihull East
+297 Mid Bedfordshire
+298 Mid Buckinghamshire
+299 Mid Cheshire
+300 Mid Derbyshire
+301 Mid Dorset and North Poole
+302 Mid Leicestershire
+303 Mid Norfolk
+304 Mid Sussex
+305 Middlesbrough and Thornaby East
+306 Middlesbrough South and East Cleveland
+307 Milton Keynes Central
+308 Milton Keynes North
+309 Mitcham and Morden
+310 Morecambe and Lunesdale
+311 New Forest East
+312 New Forest West
+313 Newark
+314 Newbury
+315 Newcastle upon Tyne Central and West
+316 Newcastle upon Tyne East and Wallsend
+317 Newcastle upon Tyne North
+318 Newcastle-under-Lyme
+319 Newton Abbot
+320 Newton Aycliffe and Spennymoor
+321 Normanton and Hemsworth
+322 North Bedfordshire
+323 North Cornwall
+324 North Cotswolds
+325 North Devon
+326 North Dorset
+327 North Durham
+328 North East Cambridgeshire
+329 North East Derbyshire
+330 North East Hampshire
+331 North East Hertfordshire
+332 North East Somerset and Hanham
+333 North Herefordshire
+334 North Norfolk
+335 North Northumberland
+336 North Shropshire
+337 North Somerset
+338 North Warwickshire and Bedworth
+339 North West Cambridgeshire
+340 North West Essex
+341 North West Hampshire
+342 North West Leicestershire
+343 North West Norfolk
+344 Northampton North
+345 Northampton South
+346 Norwich North
+347 Norwich South
+348 Nottingham East
+349 Nottingham North and Kimberley
+350 Nottingham South
+351 Nuneaton
+352 Old Bexley and Sidcup
+353 Oldham East and Saddleworth
+354 Oldham West, Chadderton and Royton
+355 Orpington
+356 Ossett and Denby Dale
+357 Oxford East
+358 Oxford West and Abingdon
+359 Peckham
+360 Pendle and Clitheroe
+361 Penistone and Stocksbridge
+362 Penrith and Solway
+363 Peterborough
+364 Plymouth Moor View
+365 Plymouth Sutton and Devonport
+366 Pontefract, Castleford and Knottingley
+367 Poole
+368 Poplar and Limehouse
+369 Portsmouth North
+370 Portsmouth South
+371 Preston
+372 Putney
+373 Queen's Park and Maida Vale
+374 Rawmarsh and Conisbrough
+375 Rayleigh and Wickford
+376 Reading Central
+377 Reading West and Mid Berkshire
+378 Redcar
+379 Redditch
+380 Reigate
+381 Ribble Valley
+382 Richmond and Northallerton
+383 Richmond Park
+384 Rochdale
+385 Rochester and Strood
+386 Romford
+387 Romsey and Southampton North
+388 Rossendale and Darwen
+389 Rother Valley
+390 Rotherham
+391 Rugby
+392 Ruislip, Northwood and Pinner
+393 Runcorn and Helsby
+394 Runnymede and Weybridge
+395 Rushcliffe
+396 Rutland and Stamford
+397 Salford
+398 Salisbury
+399 Scarborough and Whitby
+400 Scunthorpe
+401 Sefton Central
+402 Selby
+403 Sevenoaks
+404 Sheffield Brightside and Hillsborough
+405 Sheffield Central
+406 Sheffield Hallam
+407 Sheffield Heeley
+408 Sheffield South East
+409 Sherwood Forest
+410 Shipley
+411 Shrewsbury
+412 Sittingbourne and Sheppey
+413 Skipton and Ripon
+414 Sleaford and North Hykeham
+415 Slough
+416 Smethwick
+417 Solihull West and Shirley
+418 South Basildon and East Thurrock
+419 South Cambridgeshire
+420 South Cotswolds
+421 South Derbyshire
+422 South Devon
+423 South Dorset
+424 South East Cornwall
+425 South Holland and The Deepings
+426 South Leicestershire
+427 South Norfolk
+428 South Northamptonshire
+429 South Ribble
+430 South Shields
+431 South Shropshire
+432 South Suffolk
+433 South West Devon
+434 South West Hertfordshire
+435 South West Norfolk
+436 South West Wiltshire
+437 Southampton Itchen
+438 Southampton Test
+439 Southend East and Rochford
+440 Southend West and Leigh
+441 Southgate and Wood Green
+442 Southport
+443 Spelthorne
+444 Spen Valley
+445 St Albans
+446 St Austell and Newquay
+447 St Helens North
+448 St Helens South and Whiston
+449 St Ives
+450 St Neots and Mid Cambridgeshire
+451 Stafford
+452 Staffordshire Moorlands
+453 Stalybridge and Hyde
+454 Stevenage
+455 Stockport
+456 Stockton North
+457 Stockton West
+458 Stoke-on-Trent Central
+459 Stoke-on-Trent North
+460 Stoke-on-Trent South
+461 Stone, Great Wyrley and Penkridge
+462 Stourbridge
+463 Stratford and Bow
+464 Stratford-on-Avon
+465 Streatham and Croydon North
+466 Stretford and Urmston
+467 Stroud
+468 Suffolk Coastal
+469 Sunderland Central
+470 Surrey Heath
+471 Sussex Weald
+472 Sutton and Cheam
+473 Sutton Coldfield
+474 Swindon North
+475 Swindon South
+476 Tamworth
+477 Tatton
+478 Taunton and Wellington
+479 Telford
+480 Tewkesbury
+481 The Wrekin
+482 Thirsk and Malton
+483 Thornbury and Yate
+484 Thurrock
+485 Tipton and Wednesbury
+486 Tiverton and Minehead
+487 Tonbridge
+488 Tooting
+489 Torbay
+490 Torridge and Tavistock
+491 Tottenham
+492 Truro and Falmouth
+493 Tunbridge Wells
+494 Twickenham
+495 Tynemouth
+496 Uxbridge and South Ruislip
+497 Vauxhall and Camberwell Green
+498 Wakefield and Rothwell
+499 Wallasey
+500 Walsall and Bloxwich
+501 Walthamstow
+502 Warrington North
+503 Warrington South
+504 Warwick and Leamington
+505 Washington and Gateshead South
+506 Watford
+507 Waveney Valley
+508 Weald of Kent
+509 Wellingborough and Rushden
+510 Wells and Mendip Hills
+511 Welwyn Hatfield
+512 West Bromwich
+513 West Dorset
+514 West Ham and Beckton
+515 West Lancashire
+516 West Suffolk
+517 West Worcestershire
+518 Westmorland and Lonsdale
+519 Weston-super-Mare
+520 Wetherby and Easingwold
+521 Whitehaven and Workington
+522 Widnes and Halewood
+523 Wigan
+524 Wimbledon
+525 Winchester
+526 Windsor
+527 Wirral West
+528 Witham
+529 Witney
+530 Woking
+531 Wokingham
+532 Wolverhampton North East
+533 Wolverhampton South East
+534 Wolverhampton West
+535 Worcester
+536 Worsley and Eccles
+537 Worthing West
+538 Wycombe
+539 Wyre Forest
+540 Wythenshawe and Sale East
+541 Yeovil
+542 York Central
+543 York Outer
+544 Belfast East
+545 Belfast North
+546 Belfast South and Mid Down
+547 Belfast West
+548 East Antrim
+549 East Londonderry
+550 Fermanagh and South Tyrone
+551 Foyle
+552 Lagan Valley
+553 Mid Ulster
+554 Newry and Armagh
+555 North Antrim
+556 North Down
+557 South Antrim
+558 South Down
+559 Strangford
+560 Upper Bann
+561 West Tyrone
+562 Ayr, Carrick and Cumnock
+563 Berwickshire, Roxburgh and Selkirk
+564 Central Ayrshire
+565 East Renfrewshire
+566 Na h-Eileanan an Iar
+567 Kilmarnock and Loudoun
+568 Midlothian
+569 North Ayrshire and Arran
+570 Orkney and Shetland
+571 West Aberdeenshire and Kincardine
+572 Aberdeen North
+573 Aberdeen South
+574 Aberdeenshire North and Moray East
+575 Airdrie and Shotts
+576 Alloa and Grangemouth
+577 Angus and Perthshire Glens
+578 Arbroath and Broughty Ferry
+579 Argyll, Bute and South Lochaber
+580 Bathgate and Linlithgow
+581 Caithness, Sutherland and Easter Ross
+582 Coatbridge and Bellshill
+583 Cowdenbeath and Kirkcaldy
+584 Cumbernauld and Kirkintilloch
+585 Dumfries and Galloway
+586 Dumfriesshire, Clydesdale and Tweeddale
+587 Dundee Central
+588 Dunfermline and Dollar
+589 East Kilbride and Strathaven
+590 Edinburgh East and Musselburgh
+591 Edinburgh North and Leith
+592 Edinburgh South
+593 Edinburgh South West
+594 Edinburgh West
+595 Falkirk
+596 Glasgow East
+597 Glasgow North
+598 Glasgow North East
+599 Glasgow South
+600 Glasgow South West
+601 Glasgow West
+602 Glenrothes and Mid Fife
+603 Gordon and Buchan
+604 Hamilton and Clyde Valley
+605 Inverclyde and Renfrewshire West
+606 Inverness, Skye and West Ross-shire
+607 Livingston
+608 Lothian East
+609 Mid Dunbartonshire
+610 Moray West, Nairn and Strathspey
+611 Motherwell, Wishaw and Carluke
+612 North East Fife
+613 Paisley and Renfrewshire North
+614 Paisley and Renfrewshire South
+615 Perth and Kinross-shire
+616 Rutherglen
+617 Stirling and Strathallan
+618 West Dunbartonshire
+619 Aberafan Maesteg
+620 Alyn and Deeside
+621 Bangor Aberconwy
+622 Blaenau Gwent and Rhymney
+623 Brecon, Radnor and Cwm Tawe
+624 Bridgend
+625 Caerfyrddin
+626 Caerphilly
+627 Cardiff East
+628 Cardiff North
+629 Cardiff South and Penarth
+630 Cardiff West
+631 Ceredigion Preseli
+632 Clwyd East
+633 Clwyd North
+634 Dwyfor Meirionnydd
+635 Gower
+636 Llanelli
+637 Merthyr Tydfil and Aberdare
+638 Mid and South Pembrokeshire
+639 Monmouthshire
+640 Montgomeryshire and Glyndŵr
+641 Neath and Swansea East
+642 Newport East
+643 Newport West and Islwyn
+644 Pontypridd
+645 Rhondda and Ogmore
+646 Swansea West
+647 Torfaen
+648 Vale of Glamorgan
+649 Wrexham
+650 Ynys Môn

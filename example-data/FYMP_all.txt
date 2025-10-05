@@ -1,0 +1,650 @@
+Aberafan Maesteg	Stephen Kinnock	Labour				True
+Aberdeen North	Kirsty Blackman	Scottish National Party				True
+Aberdeen South	Stephen Flynn	Scottish National Party				True
+Aberdeenshire North and Moray East	Seamus Logan	Scottish National Party				True
+Airdrie and Shotts	Kenneth Stevenson	Labour				True
+Aldershot	Alex Baker	Labour				True
+Aldridge-Brownhills	Wendy Morton	Conservative				True
+Alloa and Grangemouth	Brian Leishman	Independent				True
+Altrincham and Sale West	Mr Connor Rand	Labour				True
+Alyn and Deeside	Sir Mark Tami	Labour				True
+Amber Valley	Linsey Farnsworth	Labour				True
+Angus and Perthshire Glens	Dave Doogan	Scottish National Party				True
+Arbroath and Broughty Ferry	Stephen Gethins	Scottish National Party				True
+Argyll, Bute and South Lochaber	Brendan O'Hara	Scottish National Party				True
+Arundel and South Downs	Andrew Griffith	Conservative				True
+Ashfield	Lee Anderson	Reform UK				True
+Ashford	Sojan Joseph	Labour				True
+Ashton-under-Lyne	Angela Rayner	Labour				True
+Aylesbury	Laura Kyrke-Smith	Labour				True
+Ayr, Carrick and Cumnock	Elaine Stewart	Labour				True
+Banbury	Sean Woodcock	Labour				True
+Bangor Aberconwy	Claire Hughes	Labour				True
+Barking	Nesil Caliskan	Labour				True
+Barnsley North	Dan Jarvis	Labour				True
+Barnsley South	Stephanie Peacock	Labour				True
+Barrow and Furness	Michelle Scrogham	Labour				True
+Basildon and Billericay	Mr Richard Holden	Conservative				True
+Basingstoke	Luke Murphy	Labour				True
+Bassetlaw	Jo White	Labour				True
+Bath	Wera Hobhouse	Liberal Democrat				True
+Bathgate and Linlithgow	Kirsteen Sullivan	Labour (Co-op)				True
+Battersea	Marsha De Cordova	Labour				True
+Beaconsfield	Joy Morrissey	Conservative				True
+Beckenham and Penge	Liam Conlon	Labour				True
+Bedford	Mohammad Yasin	Labour				True
+Belfast East	Gavin Robinson	Democratic Unionist Party				True
+Belfast North	John Finucane	Sinn Féin				True
+Belfast South and Mid Down	Claire Hanna	Social Democratic &amp; Labour Party				True
+Belfast West	Paul Maskey	Sinn Féin				True
+Bermondsey and Old Southwark	Neil Coyle	Labour				True
+Berwickshire, Roxburgh and Selkirk	John Lamont	Conservative				True
+Bethnal Green and Stepney	Rushanara Ali	Labour				True
+Beverley and Holderness	Graham Stuart	Conservative				True
+Bexhill and Battle	Dr Kieran Mullan	Conservative				True
+Bexleyheath and Crayford	Daniel Francis	Labour				True
+Bicester and Woodstock	Calum Miller	Liberal Democrat				True
+Birkenhead	Alison McGovern	Labour				True
+Birmingham Edgbaston	Preet Kaur Gill	Labour (Co-op)				True
+Birmingham Erdington	Paulette Hamilton	Labour				True
+Birmingham Hall Green and Moseley	Tahir Ali	Labour				True
+Birmingham Hodge Hill and Solihull North	Liam Byrne	Labour				True
+Birmingham Ladywood	Shabana Mahmood	Labour				True
+Birmingham Northfield	Laurence Turner	Labour				True
+Birmingham Perry Barr	Ayoub Khan	Independent				True
+Birmingham Selly Oak	Al Carns	Labour				True
+Birmingham Yardley	Jess Phillips	Labour				True
+Bishop Auckland	Sam Rushworth	Labour				True
+Blackburn	Mr Adnan Hussain	Independent				True
+Blackley and Middleton South	Graham Stringer	Labour				True
+Blackpool North and Fleetwood	Lorraine Beavers	Labour				True
+Blackpool South	Chris Webb	Labour				True
+Blaenau Gwent and Rhymney	Nick Smith	Labour				True
+Blaydon and Consett	Liz Twist	Labour				True
+Blyth and Ashington	Ian Lavery	Labour				True
+Bognor Regis and Littlehampton	Alison Griffiths	Conservative				True
+Bolsover	Natalie Fleet	Labour				True
+Bolton North East	Kirith Entwistle	Labour				True
+Bolton South and Walkden	Yasmin Qureshi	Labour				True
+Bolton West	Phil Brickell	Labour				True
+Bootle	Peter Dowd	Labour				True
+Boston and Skegness	Richard Tice	Reform UK				True
+Bournemouth East	Tom Hayes	Labour				True
+Bournemouth West	Jessica Toale	Labour				True
+Bracknell	Peter Swallow	Labour				True
+Bradford East	Imran Hussain	Labour				True
+Bradford South	Judith Cummins	Labour				True
+Bradford West	Naz Shah	Labour				True
+Braintree	Sir James Cleverly	Conservative				True
+Brecon, Radnor and Cwm Tawe	David Chadwick	Liberal Democrat				True
+Brent East	Dawn Butler	Labour				True
+Brent West	Barry Gardiner	Labour				True
+Brentford and Isleworth	Ruth Cadbury	Labour				True
+Brentwood and Ongar	Alex Burghart	Conservative				True
+Bridgend	Chris Elmore	Labour				True
+Bridgwater	Sir Ashley Fox	Conservative				True
+Bridlington and The Wolds	Charlie Dewhirst	Conservative				True
+Brigg and Immingham	Martin Vickers	Conservative				True
+Brighton Kemptown and Peacehaven	Chris Ward	Labour				True
+Brighton Pavilion	Siân Berry	Green Party				True
+Bristol Central	Carla Denyer	Green Party				True
+Bristol East	Kerry McCarthy	Labour				True
+Bristol North East	Damien Egan	Labour				True
+Bristol North West	Darren Jones	Labour				True
+Bristol South	Karin Smyth	Labour				True
+Broadland and Fakenham	Jerome Mayhew	Conservative				True
+Bromley and Biggin Hill	Peter Fortune	Conservative				True
+Bromsgrove	Bradley Thomas	Conservative				True
+Broxbourne	Lewis Cocking	Conservative				True
+Broxtowe	Juliet Campbell	Labour				True
+Buckingham and Bletchley	Callum Anderson	Labour				True
+Burnley	Oliver Ryan	Labour (Co-op)				True
+Burton and Uttoxeter	Jacob Collier	Labour				True
+Bury North	Mr James Frith	Labour				True
+Bury South	Christian Wakeford	Labour				True
+Bury St Edmunds and Stowmarket	Peter Prinsley	Labour				True
+Caerfyrddin	Ann Davies	Plaid Cymru				True
+Caerphilly	Chris Evans	Labour (Co-op)				True
+Caithness, Sutherland and Easter Ross	Jamie Stone	Liberal Democrat				True
+Calder Valley	Josh Fenton-Glynn	Labour				True
+Camborne and Redruth	Perran Moon	Labour				True
+Cambridge	Daniel Zeichner	Labour				True
+Cannock Chase	Josh Newbury	Labour				True
+Canterbury	Rosie Duffield	Independent				True
+Cardiff East	Jo Stevens	Labour				True
+Cardiff North	Anna McMorrin	Labour				True
+Cardiff South and Penarth	Stephen Doughty	Labour (Co-op)				True
+Cardiff West	Mr Alex Barros-Curtis	Labour				True
+Carlisle	Ms Julie Minns	Labour				True
+Carshalton and Wallington	Bobby Dean	Liberal Democrat				True
+Castle Point	Rebecca Harris	Conservative				True
+Central Ayrshire	Alan Gemmell	Labour				True
+Central Devon	Sir Mel Stride	Conservative				True
+Central Suffolk and North Ipswich	Patrick Spencer	Independent				True
+Ceredigion Preseli	Ben Lake	Plaid Cymru				True
+Chatham and Aylesford	Tristan Osborne	Labour				True
+Cheadle	Tom Morrison	Liberal Democrat				True
+Chelmsford	Marie Goldman	Liberal Democrat				True
+Chelsea and Fulham	Ben Coleman	Labour				True
+Cheltenham	Max Wilkinson	Liberal Democrat				True
+Chesham and Amersham	Sarah Green	Liberal Democrat				True
+Chester North and Neston	Samantha Dixon	Labour				True
+Chester South and Eddisbury	Aphra Brandreth	Conservative				True
+Chesterfield	Mr Toby Perkins	Labour				True
+Chichester	Jess Brown-Fuller	Liberal Democrat				True
+Chingford and Woodford Green	Sir Iain Duncan Smith	Conservative				True
+Chippenham	Sarah Gibson	Liberal Democrat				True
+Chipping Barnet	Dan Tomlinson	Labour				True
+Chorley	Sir Lindsay Hoyle	Speaker				True
+Christchurch	Sir Christopher Chope	Conservative				True
+Cities of London and Westminster	Rachel Blake	Labour (Co-op)				True
+City of Durham	Mary Kelly Foy	Labour				True
+Clacton	Nigel Farage	Reform UK				True
+Clapham and Brixton Hill	Bell Ribeiro-Addy	Labour				True
+Clwyd East	Becky Gittins	Labour				True
+Clwyd North	Gill German	Labour				True
+Coatbridge and Bellshill	Frank McNally	Labour				True
+Colchester	Pam Cox	Labour				True
+Colne Valley	Paul Davies	Labour				True
+Congleton	Sarah Russell	Labour				True
+Corby and East Northamptonshire	Lee Barron	Labour				True
+Coventry East	Mary Creagh	Labour				True
+Coventry North West	Taiwo Owatemi	Labour				True
+Coventry South	Zarah Sultana	Independent				True
+Cowdenbeath and Kirkcaldy	Melanie Ward	Labour				True
+Cramlington and Killingworth	Emma Foody	Labour (Co-op)				True
+Crawley	Peter Lamb	Labour				True
+Crewe and Nantwich	Connor Naismith	Labour				True
+Croydon East	Natasha Irons	Labour				True
+Croydon South	Chris Philp	Conservative				True
+Croydon West	Sarah Jones	Labour				True
+Cumbernauld and Kirkintilloch	Katrina Murray	Labour				True
+Dagenham and Rainham	Margaret Mullane	Labour				True
+Darlington	Lola McEvoy	Labour				True
+Dartford	Jim Dickson	Labour				True
+Daventry	Stuart Andrew	Conservative				True
+Derby North	Catherine Atkinson	Labour				True
+Derby South	Baggy Shanker	Labour (Co-op)				True
+Derbyshire Dales	John Whitby	Labour				True
+Dewsbury and Batley	Iqbal Mohamed	Independent				True
+Didcot and Wantage	Olly Glover	Liberal Democrat				True
+Doncaster Central	Sally Jameson	Labour (Co-op)				True
+Doncaster East and the Isle of Axholme	Lee Pitcher	Labour				True
+Doncaster North	Ed Miliband	Labour				True
+Dorking and Horley	Chris Coghlan	Liberal Democrat				True
+Dover and Deal	Mike Tapp	Labour				True
+Droitwich and Evesham	Nigel Huddleston	Conservative				True
+Dudley	Sonia Kumar	Labour				True
+Dulwich and West Norwood	Helen Hayes	Labour				True
+Dumfries and Galloway	John Cooper	Conservative				True
+Dumfriesshire, Clydesdale and Tweeddale	David Mundell	Conservative				True
+Dundee Central	Chris Law	Scottish National Party				True
+Dunfermline and Dollar	Graeme Downie	Labour				True
+Dunstable and Leighton Buzzard	Alex Mayer	Labour				True
+Dwyfor Meirionnydd	Liz Saville Roberts	Plaid Cymru				True
+Ealing Central and Acton	Dr Rupa Huq	Labour				True
+Ealing North	James Murray	Labour (Co-op)				True
+Ealing Southall	Deirdre Costigan	Labour				True
+Earley and Woodley	Yuan Yang	Labour				True
+Easington	Grahame Morris	Labour				True
+East Antrim	Sammy Wilson	Democratic Unionist Party				True
+East Grinstead and Uckfield	Mims Davies	Conservative				True
+East Ham	Sir Stephen Timms	Labour				True
+East Hampshire	Damian Hinds	Conservative				True
+East Kilbride and Strathaven	Joani Reid	Labour				True
+East Londonderry	Mr Gregory Campbell	Democratic Unionist Party				True
+East Renfrewshire	Blair McDougall	Labour				True
+East Surrey	Claire Coutinho	Conservative				True
+East Thanet	Ms Polly Billington	Labour				True
+East Wiltshire	Danny Kruger	Reform UK				True
+East Worthing and Shoreham	Tom Rutland	Labour				True
+Eastbourne	Josh Babarinde	Liberal Democrat				True
+Eastleigh	Liz Jarvis	Liberal Democrat				True
+Edinburgh East and Musselburgh	Chris Murray	Labour				True
+Edinburgh North and Leith	Tracy Gilbert	Labour				True
+Edinburgh South	Ian Murray	Labour				True
+Edinburgh South West	Dr Scott Arthur	Labour				True
+Edinburgh West	Christine Jardine	Liberal Democrat				True
+Edmonton and Winchmore Hill	Kate Osamor	Labour (Co-op)				True
+Ellesmere Port and Bromborough	Justin Madders	Labour				True
+Eltham and Chislehurst	Clive Efford	Labour				True
+Ely and East Cambridgeshire	Charlotte Cane	Liberal Democrat				True
+Enfield North	Feryal Clark	Labour				True
+Epping Forest	Dr Neil Hudson	Conservative				True
+Epsom and Ewell	Helen Maguire	Liberal Democrat				True
+Erewash	Adam Thompson	Labour				True
+Erith and Thamesmead	Ms Abena Oppong-Asare	Labour				True
+Esher and Walton	Monica Harding	Liberal Democrat				True
+Exeter	Steve Race	Labour				True
+Exmouth and Exeter East	David Reed	Conservative				True
+Falkirk	Euan Stainbank	Labour				True
+Fareham and Waterlooville	Suella Braverman	Conservative				True
+Farnham and Bordon	Gregory Stafford	Conservative				True
+Faversham and Mid Kent	Helen Whately	Conservative				True
+Feltham and Heston	Seema Malhotra	Labour (Co-op)				True
+Fermanagh and South Tyrone	Pat Cullen	Sinn Féin				True
+Filton and Bradley Stoke	Claire Hazelgrove	Labour				True
+Finchley and Golders Green	Sarah Sackman	Labour				True
+Folkestone and Hythe	Tony Vaughan	Labour				True
+Forest of Dean	Matt Bishop	Labour				True
+Foyle	Colum Eastwood	Social Democratic &amp; Labour Party				True
+Frome and East Somerset	Anna Sabine	Liberal Democrat				True
+Fylde	Mr Andrew Snowden	Conservative				True
+Gainsborough	Sir Edward Leigh	Conservative				True
+Gateshead Central and Whickham	Mark Ferguson	Labour				True
+Gedling	Michael Payne	Labour				True
+Gillingham and Rainham	Naushabah Khan	Labour				True
+Glasgow East	John Grady	Labour				True
+Glasgow North	Martin Rhodes	Labour				True
+Glasgow North East	Maureen Burke	Labour				True
+Glasgow South	Gordon McKee	Labour				True
+Glasgow South West	Dr Zubir Ahmed	Labour				True
+Glasgow West	Patricia Ferguson	Labour				True
+Glastonbury and Somerton	Sarah Dyke	Liberal Democrat				True
+Glenrothes and Mid Fife	Richard Baker	Labour				True
+Gloucester	Alex McIntyre	Labour				True
+Godalming and Ash	Sir Jeremy Hunt	Conservative				True
+Goole and Pocklington	David Davis	Conservative				True
+Gordon and Buchan	Harriet Cross	Conservative				True
+Gorton and Denton	Andrew Gwynne	Independent				True
+Gosport	Dame Caroline Dinenage	Conservative				True
+Gower	Tonia Antoniazzi	Labour				True
+Grantham and Bourne	Gareth Davies	Conservative				True
+Gravesham	Dr Lauren Sullivan	Labour				True
+Great Grimsby and Cleethorpes	Melanie Onn	Labour				True
+Great Yarmouth	Rupert Lowe	Independent				True
+Greenwich and Woolwich	Matthew Pennycook	Labour				True
+Guildford	Zöe Franklin	Liberal Democrat				True
+Hackney North and Stoke Newington	Ms Diane Abbott	Independent				True
+Hackney South and Shoreditch	Dame Meg Hillier	Labour (Co-op)				True
+Halesowen	Alex Ballinger	Labour				True
+Halifax	Kate Dearden	Labour (Co-op)				True
+Hamble Valley	Paul Holmes	Conservative				True
+Hamilton and Clyde Valley	Imogen Walker	Labour				True
+Hammersmith and Chiswick	Andy Slaughter	Labour				True
+Hampstead and Highgate	Tulip Siddiq	Labour				True
+Harborough, Oadby and Wigston	Neil O'Brien	Conservative				True
+Harlow	Chris Vince	Labour (Co-op)				True
+Harpenden and Berkhamsted	Victoria Collins	Liberal Democrat				True
+Harrogate and Knaresborough	Tom Gordon	Liberal Democrat				True
+Harrow East	Bob Blackman	Conservative				True
+Harrow West	Gareth Thomas	Labour (Co-op)				True
+Hartlepool	Mr Jonathan Brash	Labour				True
+Harwich and North Essex	Sir Bernard Jenkin	Conservative				True
+Hastings and Rye	Helena Dollimore	Labour (Co-op)				True
+Havant	Alan Mak	Conservative				True
+Hayes and Harlington	John McDonnell	Labour				True
+Hazel Grove	Lisa Smart	Liberal Democrat				True
+Hemel Hempstead	David Taylor	Labour				True
+Hendon	David Pinto-Duschinsky	Labour				True
+Henley and Thame	Freddie van Mierlo	Liberal Democrat				True
+Hereford and South Herefordshire	Jesse Norman	Conservative				True
+Herne Bay and Sandwich	Sir Roger Gale	Conservative				True
+Hertford and Stortford	Josh Dean	Labour				True
+Hertsmere	Sir Oliver Dowden	Conservative				True
+Hexham	Joe Morris	Labour				True
+Heywood and Middleton North	Mrs Elsie Blundell	Labour				True
+High Peak	Jon Pearce	Labour				True
+Hinckley and Bosworth	Dr Luke Evans	Conservative				True
+Hitchin	Alistair Strathern	Labour				True
+Holborn and St Pancras	Sir Keir Starmer	Labour				True
+Honiton and Sidmouth	Richard Foord	Liberal Democrat				True
+Hornchurch and Upminster	Julia Lopez	Conservative				True
+Hornsey and Friern Barnet	Catherine West	Labour				True
+Horsham	John Milne	Liberal Democrat				True
+Houghton and Sunderland South	Bridget Phillipson	Labour				True
+Hove and Portslade	Peter Kyle	Labour				True
+Huddersfield	Harpreet Uppal	Labour				True
+Huntingdon	Ben Obese-Jecty	Conservative				True
+Hyndburn	Sarah Smith	Labour				True
+Ilford North	Wes Streeting	Labour				True
+Ilford South	Jas Athwal	Labour				True
+Inverclyde and Renfrewshire West	Martin McCluskey	Labour				True
+Inverness, Skye and West Ross-shire	Mr Angus MacDonald	Liberal Democrat				True
+Ipswich	Jack Abbott	Labour (Co-op)				True
+Isle of Wight East	Joe Robertson	Conservative				True
+Isle of Wight West	Mr Richard Quigley	Labour				True
+Islington North	Jeremy Corbyn	Independent				True
+Islington South and Finsbury	Emily Thornberry	Labour				True
+Jarrow and Gateshead East	Kate Osborne	Labour				True
+Keighley and Ilkley	Robbie Moore	Conservative				True
+Kenilworth and Southam	Sir Jeremy Wright	Conservative				True
+Kensington and Bayswater	Joe Powell	Labour				True
+Kettering	Rosie Wrighting	Labour				True
+Kilmarnock and Loudoun	Lillian Jones	Labour				True
+Kingston and Surbiton	Ed Davey	Liberal Democrat				True
+Kingston upon Hull East	Karl Turner	Labour				True
+Kingston upon Hull North and Cottingham	Dame Diana Johnson	Labour				True
+Kingston upon Hull West and Haltemprice	Emma Hardy	Labour				True
+Kingswinford and South Staffordshire	Mike Wood	Conservative				True
+Knowsley	Anneliese Midgley	Labour				True
+Lagan Valley	Sorcha Eastwood	Alliance				True
+Lancaster and Wyre	Cat Smith	Labour				True
+Leeds Central and Headingley	Alex Sobel	Labour (Co-op)				True
+Leeds East	Richard Burgon	Labour				True
+Leeds North East	Fabian Hamilton	Labour				True
+Leeds North West	Katie White	Labour				True
+Leeds South	Hilary Benn	Labour				True
+Leeds South West and Morley	Mark Sewards	Labour				True
+Leeds West and Pudsey	Rachel Reeves	Labour				True
+Leicester East	Shivani Raja	Conservative				True
+Leicester South	Shockat Adam	Independent				True
+Leicester West	Liz Kendall	Labour				True
+Leigh and Atherton	Jo Platt	Labour (Co-op)				True
+Lewes	James MacCleary	Liberal Democrat				True
+Lewisham East	Janet Daby	Labour				True
+Lewisham North	Vicky Foxcroft	Labour				True
+Lewisham West and East Dulwich	Ellie Reeves	Labour				True
+Leyton and Wanstead	Mr Calvin Bailey	Labour				True
+Lichfield	Dave Robertson	Labour				True
+Lincoln	Mr Hamish Falconer	Labour				True
+Liverpool Garston	Maria Eagle	Labour				True
+Liverpool Riverside	Kim Johnson	Labour				True
+Liverpool Walton	Dan Carden	Labour				True
+Liverpool Wavertree	Paula Barker	Labour				True
+Liverpool West Derby	Ian Byrne	Labour				True
+Livingston	Gregor Poynton	Labour				True
+Llanelli	Dame Nia Griffith	Labour				True
+Lothian East	Mr Douglas Alexander	Labour (Co-op)				True
+Loughborough	Dr Jeevun Sandher	Labour				True
+Louth and Horncastle	Victoria Atkins	Conservative				True
+Lowestoft	Jess Asato	Labour				True
+Luton North	Sarah Owen	Labour				True
+Luton South and South Bedfordshire	Rachel Hopkins	Labour				True
+Macclesfield	Tim Roca	Labour				True
+Maidenhead	Mr Joshua Reynolds	Liberal Democrat				True
+Maidstone and Malling	Helen Grant	Conservative				True
+Makerfield	Josh Simons	Labour				True
+Maldon	Sir John Whittingdale	Conservative				True
+Manchester Central	Lucy Powell	Labour (Co-op)				True
+Manchester Rusholme	Afzal Khan	Labour				True
+Manchester Withington	Jeff Smith	Labour				True
+Mansfield	Steve Yemm	Labour				True
+Melksham and Devizes	Brian Mathew	Liberal Democrat				True
+Melton and Syston	Edward Argar	Conservative				True
+Meriden and Solihull East	Saqib Bhatti	Conservative				True
+Merthyr Tydfil and Aberdare	Gerald Jones	Labour				True
+Mid Bedfordshire	Blake Stephenson	Conservative				True
+Mid Buckinghamshire	Greg Smith	Conservative				True
+Mid Cheshire	Andrew Cooper	Labour				True
+Mid Derbyshire	Jonathan Davies	Labour				True
+Mid Dorset and North Poole	Vikki Slade	Liberal Democrat				True
+Mid Dunbartonshire	Susan Murray	Liberal Democrat				True
+Mid Leicestershire	Mr Peter Bedford	Conservative				True
+Mid Norfolk	George Freeman	Conservative				True
+Mid Sussex	Alison Bennett	Liberal Democrat				True
+Mid Ulster	Mr Cathal Mallaghan	Sinn Féin				True
+Mid and South Pembrokeshire	Henry Tufnell	Labour				True
+Middlesbrough South and East Cleveland	Luke Myer	Labour				True
+Middlesbrough and Thornaby East	Andy McDonald	Labour				True
+Midlothian	Kirsty McNeill	Labour (Co-op)				True
+Milton Keynes Central	Emily Darlington	Labour				True
+Milton Keynes North	Chris Curtis	Labour				True
+Mitcham and Morden	Dame Siobhain McDonagh	Labour				True
+Monmouthshire	Catherine Fookes	Labour				True
+Montgomeryshire and Glyndŵr	Steve Witherden	Labour				True
+Moray West, Nairn and Strathspey	Graham Leadbitter	Scottish National Party				True
+Morecambe and Lunesdale	Lizzi Collinge	Labour				True
+Motherwell, Wishaw and Carluke	Pamela Nash	Labour				True
+Na h-Eileanan an Iar	Torcuil Crichton	Labour				True
+Neath and Swansea East	Carolyn Harris	Labour				True
+New Forest East	Sir Julian Lewis	Conservative				True
+New Forest West	Sir Desmond Swayne	Conservative				True
+Newark	Robert Jenrick	Conservative				True
+Newbury	Mr Lee Dillon	Liberal Democrat				True
+Newcastle upon Tyne Central and West	Dame Chi Onwurah	Labour				True
+Newcastle upon Tyne East and Wallsend	Mary Glindon	Labour				True
+Newcastle upon Tyne North	Catherine McKinnell	Labour				True
+Newcastle-under-Lyme	Adam Jogee	Labour				True
+Newport East	Jessica Morden	Labour				True
+Newport West and Islwyn	Ruth Jones	Labour				True
+Newry and Armagh	Dáire Hughes	Sinn Féin				True
+Newton Abbot	Martin Wrigley	Liberal Democrat				True
+Newton Aycliffe and Spennymoor	Alan Strickland	Labour				True
+Normanton and Hemsworth	Jon Trickett	Labour				True
+North Antrim	Jim Allister	Traditional Unionist Voice				True
+North Ayrshire and Arran	Irene Campbell	Labour				True
+North Bedfordshire	Richard Fuller	Conservative				True
+North Cornwall	Ben Maguire	Liberal Democrat				True
+North Cotswolds	Sir Geoffrey Clifton-Brown	Conservative				True
+North Devon	Ian Roome	Liberal Democrat				True
+North Dorset	Simon Hoare	Conservative				True
+North Down	Alex Easton	Independent				True
+North Durham	Luke Akehurst	Labour				True
+North East Cambridgeshire	Steve Barclay	Conservative				True
+North East Derbyshire	Louise Sandher-Jones	Labour				True
+North East Fife	Wendy Chamberlain	Liberal Democrat				True
+North East Hampshire	Alex Brewer	Liberal Democrat				True
+North East Hertfordshire	Chris Hinchliff	Independent				True
+North East Somerset and Hanham	Dan Norris	Independent				True
+North Herefordshire	Dr Ellie Chowns	Green Party				True
+North Norfolk	Steff Aquarone	Liberal Democrat				True
+North Northumberland	David Smith	Labour				True
+North Shropshire	Helen Morgan	Liberal Democrat				True
+North Somerset	Sadik Al-Hassan	Labour				True
+North Warwickshire and Bedworth	Rachel Taylor	Labour				True
+North West Cambridgeshire	Sam Carling	Labour				True
+North West Essex	Mrs Kemi Badenoch	Conservative				True
+North West Hampshire	Kit Malthouse	Conservative				True
+North West Leicestershire	Amanda Hack	Labour				True
+North West Norfolk	James Wild	Conservative				True
+Northampton North	Lucy Rigby	Labour				True
+Northampton South	Mike Reader	Labour				True
+Norwich North	Alice Macdonald	Labour (Co-op)				True
+Norwich South	Clive Lewis	Labour				True
+Nottingham East	Nadia Whittome	Labour				True
+Nottingham North and Kimberley	Alex Norris	Labour (Co-op)				True
+Nottingham South	Lilian Greenwood	Labour				True
+Nuneaton	Jodie Gosling	Labour				True
+Old Bexley and Sidcup	Mr Louie French	Conservative				True
+Oldham East and Saddleworth	Debbie Abrahams	Labour				True
+Oldham West, Chadderton and Royton	Jim McMahon	Labour (Co-op)				True
+Orkney and Shetland	Mr Alistair Carmichael	Liberal Democrat				True
+Orpington	Gareth Bacon	Conservative				True
+Ossett and Denby Dale	Jade Botterill	Labour				True
+Oxford East	Anneliese Dodds	Labour (Co-op)				True
+Oxford West and Abingdon	Layla Moran	Liberal Democrat				True
+Paisley and Renfrewshire North	Alison Taylor	Labour				True
+Paisley and Renfrewshire South	Johanna Baxter	Labour				True
+Peckham	Miatta Fahnbulleh	Labour (Co-op)				True
+Pendle and Clitheroe	Jonathan Hinder	Labour				True
+Penistone and Stocksbridge	Dr Marie Tidball	Labour				True
+Penrith and Solway	Markus Campbell-Savours	Labour				True
+Perth and Kinross-shire	Pete Wishart	Scottish National Party				True
+Peterborough	Andrew Pakes	Labour (Co-op)				True
+Plymouth Moor View	Fred Thomas	Labour				True
+Plymouth Sutton and Devonport	Luke Pollard	Labour (Co-op)				True
+Pontefract, Castleford and Knottingley	Yvette Cooper	Labour				True
+Pontypridd	Alex Davies-Jones	Labour				True
+Poole	Neil Duncan-Jordan	Independent				True
+Poplar and Limehouse	Apsana Begum	Labour				True
+Portsmouth North	Amanda Martin	Labour				True
+Portsmouth South	Stephen Morgan	Labour				True
+Preston	Sir Mark Hendrick	Labour (Co-op)				True
+Putney	Fleur Anderson	Labour				True
+Queen's Park and Maida Vale	Georgia Gould	Labour				True
+Rawmarsh and Conisbrough	John Healey	Labour				True
+Rayleigh and Wickford	Mr Mark Francois	Conservative				True
+Reading Central	Matt Rodda	Labour				True
+Reading West and Mid Berkshire	Olivia Bailey	Labour				True
+Redcar	Anna Turley	Labour (Co-op)				True
+Redditch	Chris Bloore	Labour				True
+Reigate	Rebecca Paul	Conservative				True
+Rhondda and Ogmore	Chris Bryant	Labour				True
+Ribble Valley	Maya Ellis	Labour				True
+Richmond Park	Sarah Olney	Liberal Democrat				True
+Richmond and Northallerton	Rishi Sunak	Conservative				True
+Rochdale	Paul Waugh	Labour (Co-op)				True
+Rochester and Strood	Lauren Edwards	Labour				True
+Romford	Andrew Rosindell	Conservative				True
+Romsey and Southampton North	Caroline Nokes	Conservative				True
+Rossendale and Darwen	Andy MacNae	Labour				True
+Rother Valley	Jake Richards	Labour				True
+Rotherham	Sarah Champion	Labour				True
+Rugby	John Slinger	Labour				True
+Ruislip, Northwood and Pinner	David Simmonds	Conservative				True
+Runcorn and Helsby	Sarah Pochin	Reform UK				True
+Runnymede and Weybridge	Dr Ben Spencer	Conservative				True
+Rushcliffe	James Naish	Labour				True
+Rutherglen	Michael Shanks	Labour				True
+Rutland and Stamford	Alicia Kearns	Conservative				True
+Salford	Rebecca Long Bailey	Labour				True
+Salisbury	John Glen	Conservative				True
+Scarborough and Whitby	Alison Hume	Labour				True
+Scunthorpe	Sir Nicholas Dakin	Labour				True
+Sefton Central	Bill Esterson	Labour				True
+Selby	Keir Mather	Labour				True
+Sevenoaks	Laura Trott	Conservative				True
+Sheffield Brightside and Hillsborough	Gill Furniss	Labour				True
+Sheffield Central	Abtisam Mohamed	Labour				True
+Sheffield Hallam	Olivia Blake	Labour				True
+Sheffield Heeley	Louise Haigh	Labour				True
+Sheffield South East	Mr Clive Betts	Labour				True
+Sherwood Forest	Michelle Welsh	Labour				True
+Shipley	Anna Dixon	Labour				True
+Shrewsbury	Julia Buckley	Labour				True
+Sittingbourne and Sheppey	Kevin McKenna	Labour				True
+Skipton and Ripon	Sir Julian Smith	Conservative				True
+Sleaford and North Hykeham	Dr Caroline Johnson	Conservative				True
+Slough	Mr Tanmanjeet Singh Dhesi	Labour				True
+Smethwick	Gurinder Singh Josan	Labour				True
+Solihull West and Shirley	Dr Neil Shastri-Hurst	Conservative				True
+South Antrim	Robin Swann	Ulster Unionist Party				True
+South Basildon and East Thurrock	James McMurdock	Independent				True
+South Cambridgeshire	Pippa Heylings	Liberal Democrat				True
+South Cotswolds	Dr Roz Savage	Liberal Democrat				True
+South Derbyshire	Samantha Niblett	Labour				True
+South Devon	Caroline Voaden	Liberal Democrat				True
+South Dorset	Lloyd Hatton	Labour				True
+South Down	Chris Hazzard	Sinn Féin				True
+South East Cornwall	Anna Gelderd	Labour				True
+South Holland and The Deepings	Sir John Hayes	Conservative				True
+South Leicestershire	Alberto Costa	Conservative				True
+South Norfolk	Ben Goldsborough	Labour				True
+South Northamptonshire	Sarah Bool	Conservative				True
+South Ribble	Mr Paul Foster	Labour				True
+South Shields	Emma Lewell	Labour				True
+South Shropshire	Stuart Anderson	Conservative				True
+South Suffolk	James Cartlidge	Conservative				True
+South West Devon	Rebecca Smith	Conservative				True
+South West Hertfordshire	Mr Gagan Mohindra	Conservative				True
+South West Norfolk	Terry Jermy	Labour				True
+South West Wiltshire	Dr Andrew Murrison	Conservative				True
+Southampton Itchen	Darren Paffey	Labour				True
+Southampton Test	Satvir Kaur	Labour				True
+Southend East and Rochford	Mr Bayo Alaba	Labour				True
+Southend West and Leigh	David Burton-Sampson	Labour				True
+Southgate and Wood Green	Bambos Charalambous	Labour				True
+Southport	Patrick Hurley	Labour				True
+Spelthorne	Lincoln Jopp	Conservative				True
+Spen Valley	Kim Leadbeater	Labour				True
+St Albans	Daisy Cooper	Liberal Democrat				True
+St Austell and Newquay	Noah Law	Labour				True
+St Helens North	David Baines	Labour				True
+St Helens South and Whiston	Ms Marie Rimmer	Labour				True
+St Ives	Andrew George	Liberal Democrat				True
+St Neots and Mid Cambridgeshire	Ian Sollom	Liberal Democrat				True
+Stafford	Leigh Ingham	Labour				True
+Staffordshire Moorlands	Dame Karen Bradley	Conservative				True
+Stalybridge and Hyde	Jonathan Reynolds	Labour (Co-op)				True
+Stevenage	Kevin Bonavia	Labour				True
+Stirling and Strathallan	Chris Kane	Labour				True
+Stockport	Navendu Mishra	Labour				True
+Stockton North	Chris McDonald	Labour				True
+Stockton West	Matt Vickers	Conservative				True
+Stoke-on-Trent Central	Gareth Snell	Labour (Co-op)				True
+Stoke-on-Trent North	David Williams	Labour				True
+Stoke-on-Trent South	Dr Allison Gardner	Labour				True
+Stone, Great Wyrley and Penkridge	Sir Gavin Williamson	Conservative				True
+Stourbridge	Cat Eccles	Labour				True
+Strangford	Jim Shannon	Democratic Unionist Party				True
+Stratford and Bow	Uma Kumaran	Labour				True
+Stratford-on-Avon	Manuela Perteghella	Liberal Democrat				True
+Streatham and Croydon North	Steve Reed	Labour (Co-op)				True
+Stretford and Urmston	Andrew Western	Labour				True
+Stroud	Dr Simon Opher	Labour				True
+Suffolk Coastal	Jenny Riddell-Carpenter	Labour				True
+Sunderland Central	Lewis Atkinson	Labour				True
+Surrey Heath	Dr Al Pinkerton	Liberal Democrat				True
+Sussex Weald	Ms Nusrat Ghani	Conservative				True
+Sutton Coldfield	Sir Andrew Mitchell	Conservative				True
+Sutton and Cheam	Luke Taylor	Liberal Democrat				True
+Swansea West	Torsten Bell	Labour				True
+Swindon North	Will Stone	Labour				True
+Swindon South	Heidi Alexander	Labour				True
+Tamworth	Sarah Edwards	Labour				True
+Tatton	Esther McVey	Conservative				True
+Taunton and Wellington	Gideon Amos	Liberal Democrat				True
+Telford	Shaun Davies	Labour				True
+Tewkesbury	Cameron Thomas	Liberal Democrat				True
+The Wrekin	Mark Pritchard	Conservative				True
+Thirsk and Malton	Kevin Hollinrake	Conservative				True
+Thornbury and Yate	Claire Young	Liberal Democrat				True
+Thurrock	Jen Craft	Labour				True
+Tipton and Wednesbury	Antonia Bance	Labour				True
+Tiverton and Minehead	Rachel Gilmour	Liberal Democrat				True
+Tonbridge	Tom Tugendhat	Conservative				True
+Tooting	Dr Rosena Allin-Khan	Labour				True
+Torbay	Steve Darling	Liberal Democrat				True
+Torfaen	Nick Thomas-Symonds	Labour				True
+Torridge and Tavistock	Sir Geoffrey Cox	Conservative				True
+Tottenham	Mr David Lammy	Labour				True
+Truro and Falmouth	Jayne Kirkham	Labour (Co-op)				True
+Tunbridge Wells	Mike Martin	Liberal Democrat				True
+Twickenham	Munira Wilson	Liberal Democrat				True
+Tynemouth	Sir Alan Campbell	Labour				True
+Upper Bann	Carla Lockhart	Democratic Unionist Party				True
+Uxbridge and South Ruislip	Danny Beales	Labour				True
+Vale of Glamorgan	Kanishka Narayan	Labour				True
+Vauxhall and Camberwell Green	Florence Eshalomi	Labour (Co-op)				True
+Wakefield and Rothwell	Simon Lightwood	Labour (Co-op)				True
+Wallasey	Dame Angela Eagle	Labour				True
+Walsall and Bloxwich	Valerie Vaz	Labour				True
+Walthamstow	Ms Stella Creasy	Labour (Co-op)				True
+Warrington North	Charlotte Nichols	Labour				True
+Warrington South	Sarah Hall	Labour (Co-op)				True
+Warwick and Leamington	Matt Western	Labour				True
+Washington and Gateshead South	Mrs Sharon Hodgson	Labour				True
+Watford	Matt Turmaine	Labour				True
+Waveney Valley	Adrian Ramsay	Green Party				True
+Weald of Kent	Katie Lam	Conservative				True
+Wellingborough and Rushden	Gen Kitchen	Labour				True
+Wells and Mendip Hills	Tessa Munt	Liberal Democrat				True
+Welwyn Hatfield	Andrew Lewin	Labour				True
+West Aberdeenshire and Kincardine	Andrew Bowie	Conservative				True
+West Bromwich	Sarah Coombes	Labour				True
+West Dorset	Edward Morello	Liberal Democrat				True
+West Dunbartonshire	Douglas McAllister	Labour				True
+West Ham and Beckton	James Asser	Labour				True
+West Lancashire	Ashley Dalton	Labour				True
+West Suffolk	Nick Timothy	Conservative				True
+West Tyrone	Órfhlaith Begley	Sinn Féin				True
+West Worcestershire	Dame Harriett Baldwin	Conservative				True
+Westmorland and Lonsdale	Tim Farron	Liberal Democrat				True
+Weston-super-Mare	Dan Aldridge	Labour				True
+Wetherby and Easingwold	Sir Alec Shelbrooke	Conservative				True
+Whitehaven and Workington	Josh MacAlister	Labour				True
+Widnes and Halewood	Derek Twigg	Labour				True
+Wigan	Lisa Nandy	Labour				True
+Wimbledon	Mr Paul Kohler	Liberal Democrat				True
+Winchester	Dr Danny Chambers	Liberal Democrat				True
+Windsor	Jack Rankin	Conservative				True
+Wirral West	Matthew Patrick	Labour				True
+Witham	Priti Patel	Conservative				True
+Witney	Charlie Maynard	Liberal Democrat				True
+Woking	Mr Will Forster	Liberal Democrat				True
+Wokingham	Clive Jones	Liberal Democrat				True
+Wolverhampton North East	Mrs Sureena Brackenridge	Labour				True
+Wolverhampton South East	Pat McFadden	Labour				True
+Wolverhampton West	Warinder Juss	Labour				True
+Worcester	Tom Collins	Labour				True
+Worsley and Eccles	Michael Wheeler	Labour				True
+Worthing West	Dr Beccy Cooper	Labour				True
+Wrexham	Andrew Ranger	Labour				True
+Wycombe	Emma Reynolds	Labour				True
+Wyre Forest	Mark Garnier	Conservative				True
+Wythenshawe and Sale East	Mike Kane	Labour				True
+Yeovil	Adam Dance	Liberal Democrat				True
+Ynys Mon	Llinos Medi	Plaid Cymru				True
+York Central	Rachael Maskell	Independent				True
+York Outer	Mr Luke Charters	Labour				True
