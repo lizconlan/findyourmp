@@ -1,3 +1,7 @@
+require 'rubygems'
+
+# Rails 2 boot: do not require environment.rb here. Rails is loaded below via GemBoot/Initializer.
+
 # Don't change this file!
 # Configure your app in config/environment.rb and config/environments/*.rb
 

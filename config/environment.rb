@@ -19,7 +19,7 @@ module Gem
     sources
   end
 
-  SourceIndex = Specification
+  SourceIndex = Specification unless const_defined?(:SourceIndex)
 
   class SourceList
     # If you want vendor gems, this is where to start writing code.
